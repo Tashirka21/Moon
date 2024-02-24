@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Moon">
+    <output-path>$USER_HOME$/Desktop/server2/plugins</output-path>
+    <root id="archive" name="Moon.jar">
+      <element id="module-output" name="Moon" />
+    </root>
+  </artifact>
+</component>

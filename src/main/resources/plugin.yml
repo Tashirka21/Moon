@@ -1,0 +1,7 @@
+name: Moon
+version: '${project.version}'
+main: org.tashirka.me.moon.Moon
+api-version: '1.16'
+commands:
+  moon:
+    description: test command
